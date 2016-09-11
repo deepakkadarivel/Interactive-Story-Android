@@ -1,9 +1,11 @@
-package com.upbeat.interactivestory;
+package com.upbeat.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.upbeat.interactivestory.R;
 
 public class StoryActivity extends AppCompatActivity {
 
